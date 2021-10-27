@@ -1,0 +1,14 @@
+{
+  "name": "teachercodeportfolio",
+  "version": "1.0.0",
+  "description": "Chris Purnell Portfolio",
+  "main": "index.js",
+  "author": "Chris Purnell",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "live-server": "^1.2.1",
+    "postcss-cli": "^9.0.1",
+    "tailwindcss": "^2.2.17"
+  }
+}
